@@ -1,0 +1,7 @@
+<Masus>
+    <Masu id="000001" type="Normal" chara1="さんぷる" chara2="さんぷる" chara3="さんぷる" chara4="さんぷる" convText="1,[サンプル]:3,[そんなかんじ]" quizeText="1" ans1="2" ans2="3" ans3="4" ans4="5" ansIndex="0" ansPoint="5" />
+    <Masu id="000002" type="AbNormal" chara1="" chara2="さんぷる" chara3="さんぷる" chara4="さんぷる" convText="1,[サンプル]:3,[そんなかんじ]" quizeText="6" ans1="7" ans2="8" ans3="9" ans4="10" ansIndex="1" ansPoint="5" />
+    <Masu id="000003" type="Event" chara1="" chara2="さんぷる" chara3="さんぷる" chara4="さんぷる" convText="1,[サンプル]:3,[そんなかんじ]" quizeText="11" ans1="12" ans2="13" ans3="14" ans4="15" ansIndex="2" ansPoint="5" />
+    <Masu id="00000S" type="Start" chara1="" chara2="さんぷる" chara3="さんぷる" chara4="さんぷる" convText="1,[サンプル]:3,[そんなかんじ]" quizeText="11" ans1="12" ans2="13" ans3="14" ans4="15" ansIndex="2" ansPoint="5" />
+    <Masu id="00000E" type="End" chara1="さんぷる" chara2="さんぷる" chara3="さんぷる" chara4="さんぷる" convText="1,[サンプル]:3,[そんなかんじ]" quizeText="11" ans1="12" ans2="13" ans3="14" ans4="15" ansIndex="2" ansPoint="5" />
+</Masus>
